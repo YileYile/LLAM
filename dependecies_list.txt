@@ -1,0 +1,5 @@
+ubuntu 16.4
+
+python3.5
+
+pytorch1.1
